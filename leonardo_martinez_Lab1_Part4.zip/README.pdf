@@ -1,0 +1,19 @@
+Part 4_1:
+
+References:
+I made a stringremove function that takes in a string and removes all non-alphanumerics from it and indirectly referenced www.gist.github.com/Morse-Code/5310046 for 
+lines 7-22. To tokenize the read in string I indirectly referenced www.educative.io/edpresso/splitting-a-string-using-strtok-in-c for lines 41-44. 
+To count the number of words in my string I directly referenced www.sanfoundry.com/c-program-count-words-in-sentence for lines 48-50. To split my string into 
+tokens and then save each token into an array I directly referenced www.stackoverflow.com/questions/15472299/split-strings-
+into-tokens-and-save-them-in-array for lines 63-66. 
+Facts:
+I commented my code in detail, so any more complex looking statements are explained. Additionally, it takes user input that specifies which file to read in. 
+
+Part 4_2:
+
+References:
+I used the same exact references from part 1 in part 2. 
+
+Facts:
+I commented my code in detail, so any complex parts are explained; otherwise, the code is straightforward. Additionally, it takes user input that specifies which 
+file to read in.

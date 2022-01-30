@@ -1,0 +1,22 @@
+Part 2_1:
+
+    References:
+    Strings are immutable so I switch them back into lists to remove all casing and non-alphanumericals and the conversion code I used in 
+    line 15 is referenced from www.askpython.com/python/list/list-to-string. 
+    Actually removing all non-alphanumerics I directly referenced www.geeksforgeeks.org/python-remove-all-characters-except-letters-and-numbers/ for line
+    16. 
+
+    Facts:
+    My code is well commented for lines and blocks. Part2_1 is pretty straightfoward so there is nothing really to know in advance to help better assess the code.
+    The code is in a while loop that restarts after complete execution, so it takes user input at the beginning and all you have to do is write the file name 
+    for the file you want to read in.
+
+Part 2_2:
+
+    References:
+    Same reference I used for part2_1 above. Otherwise the rest of my code is original.  
+    
+    Facts:
+    Same as part2_1. 
+    
+
